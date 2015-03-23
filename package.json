@@ -1,0 +1,25 @@
+{
+  "name": "zort",
+  "version": "1.0.0",
+  "description": "find open port",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "zort": "cmd.js"
+  },
+  "keywords": [
+    "port"
+  ],
+  "author": "Moshe Kolodny",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kolodny/zort.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kolodny/zort/issues"
+  },
+  "homepage": "https://github.com/kolodny/zort"
+}
